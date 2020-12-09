@@ -112,7 +112,7 @@ endif::[]
 - [ ] {Enseignants}
 - [ ] 1
 - [ ] 2
-- [X] 3
+- [x] 3
 - [ ] 4
 - [ ] Innopolis
 
